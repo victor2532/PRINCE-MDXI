@@ -49,13 +49,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 > **1. PAIR CODE SESSION ID**
 
 <a href='https://princeweb.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='lPRINCE-MDX~xA56c2gUUv6XUT4ZrFDX'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://princeweb.onrender.com' target="_blank">
+<a href='https://princeweb.onrender.com' target="_blPRINCE-MDX~xA56c2gUUv6XUT4ZrFDXank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -109,7 +109,8 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='
+     '/></a>
 
 
 ### <h4 align="">7. REPLIT</h4>
